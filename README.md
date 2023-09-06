@@ -7,7 +7,7 @@
 <a href="https://github.com/tarsper/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=tarsper" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/tarsper/convoychat">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarsper&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
