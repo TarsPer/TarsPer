@@ -1,6 +1,6 @@
 ### Olá eu sou Rafael Silva, estudante de Programação front-end!
 
-- 🔭 Hoje trabalho como Analista de Suporte
+- 🔭 Hoje trabalho como Analista de Suporte N1
 - 🌱 Estudando JavaScript
 <div>
    
